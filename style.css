@@ -1,0 +1,16 @@
+.odd {
+    background-color: #cb8c97;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+#numdos {
+    color: blue;
+    font-size: 32px;
+}
+.ajusta-fuente {
+    font-size: 24px;
+}
+#cuatro {
+    background-color: hsl(160, 100%, 75%);
+    font-size: 24px;
+    font-weight: bold;
+}
